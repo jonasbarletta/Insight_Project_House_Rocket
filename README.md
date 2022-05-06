@@ -50,7 +50,7 @@ Os atributos do conjunto de dados são:
 - Dashboard interativo completo, com mapas, tabelas e gráficos.
 
 
-## 3.2.	Ferramentas
+### 3.2.	Ferramentas
 - Python 3.10
 - PyCharm
 - Jupyter Notebook
