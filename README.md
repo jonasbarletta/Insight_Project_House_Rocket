@@ -78,7 +78,10 @@ H4: Os valores dos imóveis com data no verão são na média 30% superior do qu
 Hipótese falsa. O preço dos imóveis anunciados no verão são 7,5% superior quando comparados com os anunciados no inverno. Porém, em algumas localidades, essa porcentagem pode subir para quase 20%.
 
 
-## 5.	Resultados financeiros para o negócio
+## 5.	Resultados
+
+### 5.1 Resultados financeiros
+
 Nessa primeira etapa, na busca por grandes oportunidades de compras de imóveis, focamos em imóveis que tenham:
 
 - o preço pelo menos 10% abaixo da mediana dos preços de sua localidade;
@@ -88,6 +91,18 @@ Nessa primeira etapa, na busca por grandes oportunidades de compras de imóveis,
 
 Satisfazendo todos esses critérios, foram selecionados 882 imóveis. Considerando uma margem de lucro de 30%, o faturamento esperado na venda e todos esses imóveis seria de U$108,3 milhões.
 
+### 5.2 Dashboard
+
+Construímos um dashboard completo com filtros interativos para que o CEO da empresa possa analisar os imóveis com diferentes perspectivas. Esse dashboard pode ser acessado de qualquer localidade com acesso a internet pelo link: 
+
+## 6.	Conclusões
+Após uma análise bastante criteriosa dos imóveis foi possível encontrar imóveis com qualidade superior com relação aos imóveis mais próximos e com o preço bem abaixo do mercado. 
+Os insights apresentados para o time de negócio podem ser grande contribuição para selecionar outros imóveis que também possam ser grandes oportunidades, além de possibilitar um novo modelo de negócio para a empresa.
+
+## 7.	Próximos passos
+Como mencionado anteriormente, os insights analisados abriram portas para duas grandes possibilidades de negócio:
+- comprar imóveis no inverno e esperar para vendê-los no verão, podendo assim incorporar uma taxa de lucro maior que 30%.
+- analisar as possibilidades de expandir a empresa com um novo modelo de negócio: compra de imóveis em condições ruins, para reforma-los e vende-los.
 
 
 
