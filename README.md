@@ -36,32 +36,26 @@ long	Longitude
 sqft_living15	Média dos pés quadrados construídos dos 15 imóveis mais próximos
 sqft_lot15	Média dos pés quadrados do terreno dos 15 imóveis mais próximos
 
-•	Não entraremos em detalhes sobre as quantidades não inteiras de quartos, andares e banheiros.
-
-•	Para o atributo ‘conditions’ consideraremos que 1 e 2 são imóveis em condições ruins, ou seja, imóveis que exigiriam reforma. Já 3, 4 e 5 condições boas, que não exigiriam reforma.
-
-•	Desconsideraremos um dos imóveis que possui um número muito elevado de quartos (33) com relação ao seu tamanho.
-
-•	Alguns imóveis possuem o mesmo Id, estes foram imóveis que estavam a venda em determinada data e posteriormente foram colocados a venda novamente. Então, mantivemos apenas os imóveis com a data do anuncio de venda mais recente.
+-Não entraremos em detalhes sobre as quantidades não inteiras de quartos, andares e banheiros.
+- Para o atributo ‘conditions’ consideraremos que 1 e 2 são imóveis em condições ruins, ou seja, imóveis que exigiriam reforma. Já 3, 4 e 5 condições boas, que não exigiriam reforma.
+- Desconsideraremos um dos imóveis que possui um número muito elevado de quartos (33) com relação ao seu tamanho.
+- Alguns imóveis possuem o mesmo Id, estes foram imóveis que estavam a venda em determinada data e posteriormente foram colocados a venda novamente. Então, mantivemos apenas os imóveis com a data do anuncio de venda mais recente.
 
 ## 3.	Planejamento da solução
 
 ### 3.1.	Produto final
-•	Entregar cinco Insights dos dados;
-
-•	Fazer recomendações de compras de imóveis;
-
-•	Dashboard interativo completo, com mapas, tabelas e gráficos.
+- Entregar cinco Insights dos dados;
+- Fazer recomendações de compras de imóveis;
+- Dashboard interativo completo, com mapas, tabelas e gráficos.
 
 
 ## 3.2.	Ferramentas
-•	Python 3.10\\
-•	PyCharm\\
-•	Jupyter Notebook\\
-•	Github\\
-•	Streamlit\\
-•	Heroku\\
-
+- Python 3.10
+- PyCharm
+- Jupyter Notebook
+- Github
+- Streamlit
+- Heroku
 
 ## 4.	Insights dos dados
 Com análises realizadas, investiguei quatro hipóteses que geraram insights interessantes:
