@@ -3,14 +3,14 @@ O Projeto House Rocket é um projeto do tipo Insights fictício que busca analis
 Esse projeto é uma proposta do Curso: Python do ZERO ao DS, da Comunidade DS. O conjunto de dados utilizados está disponível em https://www.kaggle.com/datasets/harlfoxem/housesalesprediction (Kaggle). 
 
 
-1.	Questões de Negócio
+## 1.	Questões de Negócio
 A empresa House Rokcet trabalha com o seguinte modelo de negócio: comprar imóveis a preços baixos e revende-los a um preço maior. 
-1.1.	Problemática / Motivação
+### 1.1.	Problemática / Motivação
 A equipe de negócios da empresa está com dificuldade de encontrar as melhores oportunidades de compra de imóveis. A principal dificuldade relatada por eles é a grande quantidade de dados e como filtra-los para encontrar os melhores imóveis para compra.
-1.2.	Objetivo
+### 1.2.	Objetivo
 Indicar os melhores imóveis para compra, assim como as melhores épocas para vendê-los e com qual margem de lucro.
 
-2.	Premissas de negócio
+## 2.	Premissas de negócio
 Os atributos do conjunto de dados são:
 Atributos	Descrição
 id	Identificador
@@ -40,14 +40,14 @@ sqft_lot15	Média dos pés quadrados do terreno dos 15 imóveis mais próximos
 •	Desconsideraremos um dos imóveis que possui um número muito elevado de quartos (33) com relação ao seu tamanho.
 •	Alguns imóveis possuem o mesmo Id, estes foram imóveis que estavam a venda em determinada data e posteriormente foram colocados a venda novamente. Então, mantivemos apenas os imóveis com a data do anuncio de venda mais recente.
 
-3.	Planejamento da solução
+## 3.	Planejamento da solução
 
-3.1.	Produto final
+### 3.1.	Produto final
 •	Entregar cinco Insights dos dados;
 •	Fazer recomendações de compras de imóveis;
 •	Dashboard interativo completo, com mapas, tabelas e gráficos.
 
-3.2.	Ferramentas
+## 3.2.	Ferramentas
 •	Python 3.10
 •	PyCharm
 •	Jupyter Notebook
@@ -55,7 +55,7 @@ sqft_lot15	Média dos pés quadrados do terreno dos 15 imóveis mais próximos
 •	Streamlit
 •	Heroku
 
-4.	Insights dos dados
+## 4.	Insights dos dados
 Com análises realizadas, investiguei quatro hipóteses que geraram insights interessantes:
 H1: Imóveis com vista para a água possuem o preço por pé quadrado construído 30% superior, na média.
 Hipótese verdadeira. O preço por pé quadrado construído das casas que possuem vista para água é 37%, na média, maior.
