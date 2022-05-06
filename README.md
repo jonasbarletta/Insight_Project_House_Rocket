@@ -97,7 +97,8 @@ Construímos um dashboard completo com filtros interativos para que o CEO da emp
 
 ## 6.	Conclusões
 Após uma análise bastante criteriosa dos imóveis foi possível encontrar imóveis com qualidade superior com relação aos imóveis mais próximos e com o preço bem abaixo do mercado. 
-Os insights apresentados para o time de negócio podem ser grande contribuição para selecionar outros imóveis que também possam ser grandes oportunidades, além de possibilitar um novo modelo de negócio para a empresa.
+
+Além disso, os insights apresentados para o time de negócio podem ser grande contribuição para selecionar outros imóveis que também possam ser grandes oportunidades, além de possibilitar um novo modelo de negócio para a empresa.
 
 ## 7.	Próximos passos
 Como mencionado anteriormente, os insights analisados abriram portas para duas grandes possibilidades de negócio:
