@@ -78,7 +78,7 @@ H4: Os valores dos imóveis com data no verão são na média 30% superior do qu
 Hipótese falsa. O preço dos imóveis anunciados no verão são 7,5% superior quando comparados com os anunciados no inverno. Porém, em algumas localidades, essa porcentagem pode subir para quase 20%.
 
 
-5.	Resultados financeiros para o negócio
+## 5.	Resultados financeiros para o negócio
 Nessa primeira etapa, na busca por grandes oportunidades de compras de imóveis, focamos em imóveis que tenham:
 
 - o preço pelo menos 10% abaixo da mediana dos preços de sua localidade;
