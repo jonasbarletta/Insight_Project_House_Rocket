@@ -78,5 +78,16 @@ H4: Os valores dos imóveis com data no verão são na média 30% superior do qu
 Hipótese falsa. O preço dos imóveis anunciados no verão são 7,5% superior quando comparados com os anunciados no inverno. Porém, em algumas localidades, essa porcentagem pode subir para quase 20%.
 
 
+5.	Resultados financeiros para o negócio
+Nessa primeira etapa, na busca por grandes oportunidades de compras de imóveis, focamos em imóveis que tenham:
+
+- o preço pelo menos 10% abaixo da mediana dos preços de sua localidade;
+- a condição superior, ou igual, a média das condições dos imóveis da sua localidade;
+- a área do terreno superior, ou igual, a média das áreas dos terrenos dos 15 imóveis mais próximos;
+- a área construída superior, ou igual, a média das áreas construídas dos 15 imóveis mais próximos.
+
+Satisfazendo todos esses critérios, foram selecionados 882 imóveis. Considerando uma margem de lucro de 30%, o faturamento esperado na venda e todos esses imóveis seria de U$108,3 milhões.
+
+
 
 
