@@ -13,28 +13,29 @@ Indicar os melhores imóveis para compra, assim como as melhores épocas para ve
 
 ## 2.	Premissas de negócio
 Os atributos do conjunto de dados são:
-Atributos	Descrição
-id	Identificador
-date	Data que o imóvel foi colocado à venda
-price	Preço do imóvel
-bedrooms	Quantidade de quartos
-bathrooms	Quantidade de banheiros
-sqft_living	Pés quadrados construídos
-sqft_lot	Pés quadrados do terreno
-floors	Quantidade de andares
-waterfront	Se é de frente para a água: Sim (1) ou Não (0)
-view	Índice de 0 – 4 com relação a vista do imóvel
-condition	Índice de 1 – 5 com relação as condições que se encontram a casa
-grade	Classificação de 1 – 13 com relação a qualidade dos materiais e mão de obra utilizada na construção
-sqft_above	Pés quadrados construídos sem considerar o porão
-sqft_basement	Pés quadrados do porão
-yr_built	Ano que começou a construção
-yr_renovated	Ano da última reforma. Zero (0) indica que não foi reformada
-zipcode	Código ZIP do imóvel
-lat	Latitude
-long	Longitude
-sqft_living15	Média dos pés quadrados construídos dos 15 imóveis mais próximos
-sqft_lot15	Média dos pés quadrados do terreno dos 15 imóveis mais próximos
+| Atributos |	Descrição |
+| --------- | --------- |
+| id | Identificador |
+| date |Data que o imóvel foi colocado à venda |
+| price	| Preço do imóvel |
+| bedrooms	| Quantidade de quartos |
+| bathrooms |	Quantidade de banheiros |
+| sqft_living	| Pés quadrados construídos |
+| sqft_lot |	Pés quadrados do terreno |
+| floors	| Quantidade de andares |
+| waterfront	| Se é de frente para a água: Sim (1) ou Não (0) |
+| view |	Índice de 0 – 4 com relação a vista do imóvel |
+| condition	| Índice de 1 – 5 com relação as condições que se encontram a casa |
+| grade |	Classificação de 1 – 13 com relação a qualidade dos materiais e mão de obra utilizada na construção |
+| sqft_above	| Pés quadrados construídos sem considerar o porão |
+| sqft_basement |	Pés quadrados do porão |
+| yr_built	| Ano que começou a construção |
+| yr_renovated	| Ano da última reforma. Zero (0) indica que não foi reformada |
+| zipcode | Código ZIP do imóvel |
+| lat	| Latitude |
+| long | Longitude |
+| sqft_living15	| Média dos pés quadrados construídos dos 15 imóveis mais próximos |
+| sqft_lot15 |	Média dos pés quadrados do terreno dos 15 imóveis mais próximos |
 
 - Não entraremos em detalhes sobre as quantidades não inteiras de quartos, andares e banheiros.
 - Para o atributo ‘conditions’ consideraremos que 1 e 2 são imóveis em condições ruins, ou seja, imóveis que exigiriam reforma. Já 3, 4 e 5 condições boas, que não exigiriam reforma.
