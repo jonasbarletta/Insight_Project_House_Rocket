@@ -74,7 +74,8 @@ H3: Por região, imóveis que sofreram reforma possuem, na média, o preço 30% 
 Hipótese falsa. Na média, os preços dos imóveis, por região, que foram reformados são 17% maiores do que os que não foram. Porém, em algumas regiões esse percentual pode variar de 75% a 135%.
 
 H4: Os valores dos imóveis com data no verão são na média 30% superior do que os com data no inverno.
-Hipótese falsa. O preço dos imóveis anunciados no verão são 7,5% superior quando comparados com os anunciados no inverno. Porém, em algumas localidade, essa porcentagem pode subir para quase 20%.
+
+Hipótese falsa. O preço dos imóveis anunciados no verão são 7,5% superior quando comparados com os anunciados no inverno. Porém, em algumas localidades, essa porcentagem pode subir para quase 20%.
 
 
 
