@@ -80,7 +80,7 @@ Hipótese falsa. O preço dos imóveis anunciados no verão são 7,5% superior q
 
 ## 5.	Resultados
 
-### 5.1 Resultados financeiros
+### 5.1. Resultados financeiros
 
 Nessa primeira etapa, na busca por grandes oportunidades de compras de imóveis, focamos em imóveis que tenham:
 
@@ -91,7 +91,7 @@ Nessa primeira etapa, na busca por grandes oportunidades de compras de imóveis,
 
 Satisfazendo todos esses critérios, foram selecionados 882 imóveis. Considerando uma margem de lucro de 30%, o faturamento esperado na venda e todos esses imóveis seria de U$108,3 milhões.
 
-### 5.2 Dashboard
+### 5.2. Dashboard
 
 Construímos um dashboard completo com filtros interativos para que o CEO da empresa possa analisar os imóveis com diferentes perspectivas. Esse dashboard pode ser acessado de qualquer localidade com acesso a internet pelo link: 
 
