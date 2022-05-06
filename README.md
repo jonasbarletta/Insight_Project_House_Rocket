@@ -55,17 +55,12 @@ sqft_lot15	Média dos pés quadrados do terreno dos 15 imóveis mais próximos
 
 
 ## 3.2.	Ferramentas
-•	Python 3.10
-
-•	PyCharm
-
-•	Jupyter Notebook
-
-•	Github
-
-•	Streamlit
-
-•	Heroku
+•	Python 3.10\\
+•	PyCharm\\
+•	Jupyter Notebook\\
+•	Github\\
+•	Streamlit\\
+•	Heroku\\
 
 
 ## 4.	Insights dos dados
