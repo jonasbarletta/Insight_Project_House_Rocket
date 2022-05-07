@@ -5,11 +5,11 @@ Esse projeto é uma proposta do Curso: Python do ZERO ao DS, da Comunidade DS. O
 
 
 ## 1.	Questões de Negócio
-A empresa House Rokcet trabalha com o seguinte modelo de negócio: comprar imóveis a preços baixos e revende-los a um preço maior. 
-### 1.1.	Problemática / Motivação
-A equipe de negócios da empresa está com dificuldade de encontrar as melhores oportunidades de compra de imóveis. A principal dificuldade relatada por eles é a grande quantidade de dados e como filtra-los para encontrar os melhores imóveis para compra.
+A empresa House Rokcet trabalha com o seguinte modelo de negócio: comprar imóveis a preços baixos e revendê-los a um preço maior. 
+### 1.1.	Problemática
+A equipe de negócios da empresa está com dificuldade de encontrar as melhores oportunidades de compra de imóveis. A principal dificuldade relatada por eles é a grande quantidade de dados e como filtrá-los para encontrar os melhores imóveis para compra.
 ### 1.2.	Objetivo
-Indicar os melhores imóveis para compra, assim como as melhores épocas para vendê-los e com qual margem de lucro.
+Indicar os melhores imóveis para compra, com uma sugestão de margem de lucro.
 
 ## 2.	Premissas de negócio
 Os atributos do conjunto de dados são:
@@ -26,7 +26,7 @@ Os atributos do conjunto de dados são:
 | waterfront	| Se é de frente para a água: Sim (1) ou Não (0) |
 | view |	Índice de 0 – 4 com relação a vista do imóvel |
 | condition	| Índice de 1 – 5 com relação as condições que se encontram a casa |
-| grade |	Classificação de 1 – 13 com relação a qualidade dos materiais e mão de obra utilizada na construção |
+| grade |	Nota de 1 – 13 com relação a qualidade dos materiais e mão de obra utilizada na construção |
 | sqft_above	| Pés quadrados construídos sem considerar o porão |
 | sqft_basement |	Pés quadrados do porão |
 | yr_built	| Ano que começou a construção |
@@ -39,8 +39,11 @@ Os atributos do conjunto de dados são:
 
 - Não entraremos em detalhes sobre as quantidades não inteiras de quartos, andares e banheiros.
 - Para o atributo ‘conditions’ consideraremos que 1 e 2 são imóveis em condições ruins, ou seja, imóveis que exigiriam reforma. Já 3, 4 e 5 condições boas, que não exigiriam reforma.
+
+Para a limpeza dos dados:
+
 - Desconsideraremos um dos imóveis que possui um número muito elevado de quartos (33) com relação ao seu tamanho.
-- Alguns imóveis possuem o mesmo Id, estes foram imóveis que estavam a venda em determinada data e posteriormente foram colocados a venda novamente. Então, mantivemos apenas os imóveis com a data do anuncio de venda mais recente.
+- Alguns imóveis possuem o mesmo Id, estes foram imóveis que estavam a venda em determinada data e posteriormente foram colocados a venda novamente. Então, mantivemos apenas os imóveis com a data do anúncio de venda mais recente.
 
 ## 3.	Planejamento da solução
 
@@ -48,7 +51,6 @@ Os atributos do conjunto de dados são:
 - Entregar cinco Insights dos dados;
 - Fazer recomendações de compras de imóveis;
 - Dashboard interativo completo, com mapas, tabelas e gráficos.
-
 
 ### 3.2.	Ferramentas
 - Python 3.10
@@ -111,7 +113,7 @@ Como mencionado anteriormente, os insights analisados abriram portas para duas g
 
 [2] LOPES, Meigarom. Curso de Python do ZERO ao DS - Comunidade DS. https://www.youtube.com/watch?v=1xXK_z9M6yk&list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG&index=1. Último acesso: 07/05/2022
 
-[3] 
+[3] GeoDa Data and Lab. https://geodacenter.github.io/data-and-lab//KingCounty-HouseSales2015/. Último acesso: 07/05/2022
 
 
 
