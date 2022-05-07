@@ -104,6 +104,7 @@ Além disso, os insights apresentados para o time de negócio podem ser grande c
 Como mencionado anteriormente, os insights analisados abriram portas para duas grandes possibilidades de negócio:
 - comprar imóveis no inverno e esperar para vendê-los no verão, podendo assim incorporar uma taxa de lucro maior que 30%.
 - analisar as possibilidades de expandir a empresa com um novo modelo de negócio: compra de imóveis em condições ruins, para reforma-los e vende-los.
+- acrescentar mais funcionalidades no dashboard
 
 
 
