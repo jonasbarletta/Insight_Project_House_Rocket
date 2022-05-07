@@ -108,7 +108,9 @@ Como mencionado anteriormente, os insights analisados abriram portas para duas g
 
 ## 8. Referências
 [1] HARLFOXEM. Kaggle - House Sales in King County, USA. https://www.kaggle.com/datasets/harlfoxem/housesalesprediction. Último acesso: 07/05/2022
+
 [2] LOPES, Meigarom. Curso de Python do ZERO ao DS - Comunidade DS. https://www.youtube.com/watch?v=1xXK_z9M6yk&list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG&index=1. Último acesso: 07/05/2022
+
 [3] 
 
 
