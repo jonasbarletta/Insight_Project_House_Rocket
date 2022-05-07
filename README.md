@@ -89,7 +89,7 @@ Nessa primeira etapa, na busca por grandes oportunidades de compras de imóveis,
 - a área do terreno superior, ou igual, a média das áreas dos terrenos dos 15 imóveis mais próximos;
 - a área construída superior, ou igual, a média das áreas construídas dos 15 imóveis mais próximos.
 
-Satisfazendo todos esses critérios, foram selecionados 882 imóveis. Considerando uma margem de lucro de 30%, o faturamento esperado na venda e todos esses imóveis seria de U$108,3 milhões.
+Satisfazendo todos esses critérios, foram selecionados 882 imóveis. Considerando uma margem de lucro de 30%, o faturamento esperado na venda de todos esses imóveis seria de U$108,3 milhões.
 
 ### 5.2. Dashboard
 
