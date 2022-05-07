@@ -93,7 +93,7 @@ Satisfazendo todos esses critérios, foram selecionados 882 imóveis. Consideran
 
 ### 5.2. Dashboard
 
-Construímos um dashboard completo com filtros interativos para que o CEO da empresa possa analisar os imóveis com diferentes perspectivas. Esse dashboard pode ser acessado de qualquer localidade com acesso a internet pelo link: 
+Construímos um dashboard completo com filtros interativos para que o CEO da empresa possa analisar os imóveis com diferentes perspectivas. Esse dashboard pode ser acessado de qualquer localidade com acesso a internet: [Dashboard](https://dashboard-house-rocket-project.herokuapp.com/)
 
 ## 6.	Conclusões
 Após uma análise bastante criteriosa dos imóveis foi possível encontrar imóveis com qualidade superior com relação aos imóveis mais próximos e com o preço bem abaixo do mercado. 
@@ -104,7 +104,12 @@ Além disso, os insights apresentados para o time de negócio podem ser grande c
 Como mencionado anteriormente, os insights analisados abriram portas para duas grandes possibilidades de negócio:
 - comprar imóveis no inverno e esperar para vendê-los no verão, podendo assim incorporar uma taxa de lucro maior que 30%.
 - analisar as possibilidades de expandir a empresa com um novo modelo de negócio: compra de imóveis em condições ruins, para reforma-los e vende-los.
-- acrescentar mais funcionalidades no dashboard
+- acrescentar mais funcionalidades no dashboard.
+
+## 8. Referências
+[1] HARLFOXEM. Kaggle - House Sales in King County, USA. https://www.kaggle.com/datasets/harlfoxem/housesalesprediction. Último acesso: 07/05/2022
+[2] LOPES, Meigarom. Curso de Python do ZERO ao DS - Comunidade DS. https://www.youtube.com/watch?v=1xXK_z9M6yk&list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG&index=1. Último acesso: 07/05/2022
+[3] 
 
 
 
