@@ -5,7 +5,7 @@ Esse projeto é uma proposta do Curso: Python do ZERO ao DS, da Comunidade DS. O
 
 
 ## 1.	Questões de Negócio
-A empresa House Rokcet trabalha com o seguinte modelo de negócio: comprar imóveis a preços baixos e revendê-los a um preço maior. 
+A empresa House Rocket trabalha com o seguinte modelo de negócio: comprar imóveis a preços baixos e revendê-los a um preço maior. 
 ### 1.1.	Problemática
 A equipe de negócios da empresa está com dificuldade de encontrar as melhores oportunidades de compra de imóveis. A principal dificuldade relatada por eles é a grande quantidade de dados e como filtrá-los para encontrar os melhores imóveis para compra.
 ### 1.2.	Objetivo
