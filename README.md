@@ -48,7 +48,7 @@ Para a limpeza dos dados:
 ## 3.	Planejamento da solução
 
 ### 3.1.	Produto final
-- Entregar cinco Insights dos dados;
+- Entregar quatro Insights dos dados;
 - Fazer recomendações de compras de imóveis;
 - Dashboard interativo completo, com mapas, tabelas e gráficos.
 
@@ -65,17 +65,25 @@ Com análises realizadas, investiguei quatro hipóteses que geraram insights int
 
 H1: Imóveis com vista para a água possuem o preço por pé quadrado construído 30% superior, na média.
 
+![waterfront_insight](https://user-images.githubusercontent.com/102927918/182028917-ca8f9443-024e-4bc0-9fb9-43c16dc822c1.png)
+
 Hipótese verdadeira. O preço por pé quadrado construído das casas que possuem vista para água é 37%, na média, maior.
 
 H2: Imóveis com data de construção maior que 1975 são 20% mais caros, na média.
+
+![yr_built_insight](https://user-images.githubusercontent.com/102927918/182028226-788372e8-0999-4aea-9e5c-fbf4c960ca26.png)
 
 Hipótese falsa. O preço é, na média, 13% superior. Porém é importante notar que se considerarmos os imóveis que foram reformados depois de 1975, a diferença passa para 20%.
 
 H3: Por região, imóveis que sofreram reforma possuem, na média, o preço 30% superior com relação aos que não foram reformados.
 
+![renovated_insight](https://user-images.githubusercontent.com/102927918/182028825-3903893a-0ef8-4804-9d55-5f7ce66dfae6.png)
+
 Hipótese falsa. Na média, os preços dos imóveis, por região, que foram reformados são 17% maiores do que os que não foram. Porém, em algumas regiões esse percentual pode variar de 75% a 135%.
 
-H4: Os valores dos imóveis com data no verão são na média 0% superior do que os com data no inverno.
+H4: Os valores dos imóveis com data no verão são na média 20% superior do que os com data no inverno.
+
+![summer_insight](https://user-images.githubusercontent.com/102927918/182028849-89c928d6-3fa2-4cc4-80ef-e07208a2191f.png)
 
 Hipótese falsa. O preço dos imóveis anunciados no verão são 7,5% superior quando comparados com os anunciados no inverno. Porém, em algumas localidades, essa porcentagem pode subir para quase 20%.
 
