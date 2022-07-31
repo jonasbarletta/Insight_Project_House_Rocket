@@ -1,4 +1,7 @@
 # Projeto House Rocket
+
+![pexels-photo-1370704](https://user-images.githubusercontent.com/102927918/182029357-05ecd1a2-8830-406c-ab3f-949368fa6ae6.jpeg)
+
 O Projeto House Rocket é um projeto do tipo Insights fictício que busca analisar as melhores oportunidades de compras de imóveis para a empresa House Rocket (também fictícia). 
 
 Esse projeto é uma proposta do Curso: Python do ZERO ao DS, da Comunidade DS. O conjunto de dados utilizados está disponível em [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). 
